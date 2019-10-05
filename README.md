@@ -1,7 +1,7 @@
 # VMCAI20-SharedMemAbstr
 Practical Abstractions for Automated Verification of Shared-Memory Concurrency
 
-This repository hosts supplementary material for the paper, containing the full Coq formalisation (in `./coq`) and the verified example program (in `./program`).
+This repository hosts supplementary material for the paper, containing the full Coq formalisation (in `./coq`), the verified example program (in `./program`), and the technical report.
 
 Submitted to [VMCAI'20](https://popl20.sigplan.org/home/VMCAI-2020).
 
